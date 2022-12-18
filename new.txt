@@ -1,0 +1,6 @@
+First name - Ivan
+Last name - Pravada
+Age - 32
+Pets - 0
+The country - Italy
+
